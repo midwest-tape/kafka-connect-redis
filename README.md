@@ -4,7 +4,6 @@
 The Redis plugin is a collection of connectors that are used to interact with a Redis cluster.
 
 
-
 # Sink Connectors
 
 
